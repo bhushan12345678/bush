@@ -13,6 +13,8 @@ public class number2 extends number {
 		
 		System.out.println("Hello world");
 		
+		System.out.println("Bhushan");
+		
 	}
 	
 	
